@@ -1,23 +1,24 @@
+![]()
 <h1 align="center">Hi 👋, I'm Piyush Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsaini7742&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsaini7742" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsaini7742" alt="piyushsaini7742" /></a> </p>
-
 - 🌱 I’m currently learning **React, Mongodb, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-six-steel.vercel.app/](https://portfolio-react-six-steel.vercel.app/)
+- 👨‍💻 All of my projects are available at [(Portfolio)](https://portfolio-react-six-steel.vercel.app/)
 
 - 💬 Ask me about **react, js, css**
 
 - 📫 How to reach me **piyushsainiyt868@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ym7Z52QoQeM6GJOcCNUglau72MXjaLVx/view](https://drive.google.com/file/d/1ym7Z52QoQeM6GJOcCNUglau72MXjaLVx/view)
+- 📄 Know about my experiences [(Resume)](https://drive.google.com/file/d/1ym7Z52QoQeM6GJOcCNUglau72MXjaLVx/view)
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/piyush-saini-73b42a33b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/piyush_skr_77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <p align="left">
 </p>
 
