@@ -1,6 +1,3 @@
-![](github.gif)
-
-
 
 # Hi 👋, I'm Piyush Saini
 ### A passionate Full Stack Developer from India
