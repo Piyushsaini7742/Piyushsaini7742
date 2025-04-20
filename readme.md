@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/Piyushsaini7742/Piyushsaini7742/main/github.gif)
+![](https://raw.githubusercontent.com/Piyushsaini7742/Piyushsaini7742/main/github.gif)
 
 
 
