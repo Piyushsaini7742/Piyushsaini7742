@@ -8,7 +8,7 @@
 - 🌱 Currently expanding my skills in **React**, **Node.js**, **MongoDB**, and **Express (MERN Stack)**.
 - 🔥 I specialize in **frontend development** with a focus on building **responsive, user-friendly interfaces**.
 - 👨‍💻 Check out my portfolio: [Portfolio](https://portfolio-react-six-steel.vercel.app/)
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1ym7Z52QoQeM6GJOcCNUglau72MXjaLVx/view)
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1nOe_VAsrR07NMAJaAm0kB2rhQbZBv-XW/view)
 
 ## 💬 Ask Me About
 - **React, JavaScript, CSS**, and **Frontend Development**
@@ -17,7 +17,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [piyushsainiyt868@gmail.com](mailto:piyushsainiyt868@gmail.com)
-- 💼 LinkedIn: [Piyush Saini](https://www.linkedin.com/in/piyush-saini-73b42a33b/)
+- 💼 LinkedIn: [Piyush Saini](https://www.linkedin.com/in/piyushsaini-webdev/)
 - 📸 Instagram: [@piyush_skr_77](https://www.instagram.com/piyush_skr_77/)
 
 ## 🛠️ Languages and Tools
