@@ -1,4 +1,4 @@
-![GitHub Banner](./github.gif)
+![GitHub Banner](https://github.com/Piyushsaini7742/Piyushsaini7742/blob/main/github.gif)
 
 # Hi 👋, I'm Piyush Saini
 ### A passionate Full Stack Developer from India
