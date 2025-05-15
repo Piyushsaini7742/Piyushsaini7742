@@ -1,40 +1,66 @@
+<h1 align="center">Hi 👋, I'm Piyush Saini</h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-# Hi 👋, I'm Piyush Saini
-### A passionate Full Stack Developer from India
-
-[![Profile Views](https://komarev.com/ghpvc/?username=piyushsaini7742&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Piyushsaini7742)
-
-## 🚀 About Me
-- 🌱 Currently expanding my skills in **React**, **Node.js**, **MongoDB**, and **Express (MERN Stack)**.
-- 🔥 I specialize in **frontend development** with a focus on building **responsive, user-friendly interfaces**.
-- 👨‍💻 Check out my portfolio: [Portfolio](https://portfolio-react-six-steel.vercel.app/)
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1nOe_VAsrR07NMAJaAm0kB2rhQbZBv-XW/view)
-
-## 💬 Ask Me About
-- **React, JavaScript, CSS**, and **Frontend Development**
-- **MERN Stack**, **REST APIs**, **Web Development** best practices
-- **Design systems**, **UI/UX** concepts
-
-## 📫 How to Reach Me
-- 📧 Email: [piyushsainiyt868@gmail.com](mailto:piyushsainiyt868@gmail.com)
-- 💼 LinkedIn: [Piyush Saini](https://www.linkedin.com/in/piyushsaini-webdev/)
-- 📸 Instagram: [@piyush_skr_77](https://www.instagram.com/piyush_skr_77/)
-
-## 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://github.com/Piyushsaini7742">
+    <img src="https://komarev.com/ghpvc/?username=piyushsaini7742&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
-
-## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=piyushsaini7742&show_icons=true&locale=en&layout=compact)](https://github.com/Piyushsaini7742)
 
 ---
 
-⚡ **Fun Fact**: I think I am funny. I love to create clean and efficient code that brings creative ideas to life. 🌱
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working as a **Full Stack Developer**
+- 🧠 Skilled in building full-stack apps using **React**, **Node.js**, **Express**, and **MongoDB**
+- 🎯 Passionate about crafting **user-friendly interfaces** and **scalable backends**
+- 🌱 Exploring **cloud deployments**, **DevOps**, and **design systems**
+- 🧾 View my [Portfolio](https://portfolio-react-six-steel.vercel.app/) | [Resume](https://drive.google.com/file/d/1nOe_VAsrR07NMAJaAm0kB2rhQbZBv-XW/view)
+
+---
+
+## 💡 What I Do
+
+- ⚛️ **Frontend**: React, Tailwind CSS, JavaScript, HTML, CSS
+- 🔧 **Backend**: Node.js, Express.js, REST APIs, Authentication, Authorization
+- 🗃️ **Database**: MongoDB, Mongoose
+- ☁️ **Deployment**: Vercel, Netlify, Render, GitHub Pages
+- 🛠️ **Tools**: Git, VS Code, Postman, Chrome DevTools
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsaini7742&layout=compact&theme=react" alt="Top Languages"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [piyushsainiyt868@gmail.com](mailto:piyushsainiyt868@gmail.com)  
+- 💼 LinkedIn: [Piyush Saini](https://www.linkedin.com/in/piyushsaini-webdev/)
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning complex problems into simple, beautiful, and intuitive designs. Problem-solving is my daily fuel. Let's build something awesome together! 🚀
