@@ -15,7 +15,7 @@
 - 🧠 Skilled in building full-stack apps using **React**, **Node.js**, **Express**, and **MongoDB**
 - 🎯 Passionate about crafting **user-friendly interfaces** and **scalable backends**
 - 🌱 Exploring **cloud deployments**, **DevOps**, and **design systems**
-- 🧾 View my [Portfolio](https://portfolio-react-six-steel.vercel.app/) | [Resume](https://drive.google.com/file/d/1nOe_VAsrR07NMAJaAm0kB2rhQbZBv-XW/view)
+- 🧾 View my [Portfolio](https://my-portfolio-gold-zeta-20.vercel.app/) | [Resume](https://drive.google.com/file/d/1Zewzc7WJ_LfCdSBf1RiiDa3j0bl_ZcnZ/view?usp=sharing)
 
 ---
 
